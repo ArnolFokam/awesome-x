@@ -4,7 +4,7 @@ A curated collection of useful resources and communities for people building in 
 
 ## Lists
 
-- [Online Communities for Africans in AI](online-communities-for-africans-in-ai.md) - Online ML, AI, NLP, and data science communities to help you start your networking journey as an African in AI.
+- [Online Communities for Africans in AI](ONLINE-COMMUNITIES-FOR-AFRICANS-IN-AI.md) - Online ML, AI, NLP, and data science communities to help you start your networking journey as an African in AI.
 
 ## About
 

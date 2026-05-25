@@ -10,4 +10,4 @@ A curated collection of useful resources, communities, and opportunities for peo
 
 I write [Chocolate Cookie Bytes](https://chocolatecookiebytes.substack.com/welcome), a newsletter about breaking into AI as an African in STEM.
 
-You can also [book a call with me](https://calendar.app.google/cJrAvj9qJEbEPsiB9) to talk through AI, research, STEM opportunities, or building your path.
+You can also [chat with me](https://calendar.app.google/cJrAvj9qJEbEPsiB9) about AI, research, STEM opportunities, or building your path.

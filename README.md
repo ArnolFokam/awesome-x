@@ -1,10 +1,10 @@
 # Awesome X
 
-A curated collection of useful resources, communities, and opportunities for people building in AI, data science, and STEM.
+A curated collection of useful resources and communities for people building in AI, data science, and STEM.
 
 ## Lists
 
-- [Opportunities Relevant for Africans](opportunities-relevant-for-africans.md) - Online ML, AI, NLP, and data science communities with opportunities relevant for Africans.
+- [Online Communities for Africans in STEM](online-communities-for-africans-in-stem.md) - Online ML, AI, NLP, and data science communities to help you start your networking journey as an African in STEM.
 
 ## About
 

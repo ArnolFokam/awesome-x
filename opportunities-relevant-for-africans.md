@@ -2,6 +2,12 @@
 
 A curated list of online ML, AI, NLP, and data science communities with opportunities relevant for Africans.
 
+## About
+
+I also write [Chocolate Cookie Bytes](https://chocolatecookiebytes.substack.com/welcome), a newsletter about breaking into AI as an African in STEM: what worked, what did not, and what I wish I had known.
+
+If you want to talk through AI, research, STEM opportunities, or building your path, you can [book a call with me](https://calendar.app.google/cJrAvj9qJEbEPsiB9).
+
 ## Communities
 
 | Community | Location | Description |

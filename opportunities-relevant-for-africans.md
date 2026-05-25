@@ -1,6 +1,6 @@
-# Opportunities Relevant for Africas
+# Opportunities Relevant for Africans
 
-A curated list of online ML, AI, NLP, and data science communities with opportunities relevant for Africa.
+A curated list of online ML, AI, NLP, and data science communities with opportunities relevant for Africans.
 
 ## Communities
 

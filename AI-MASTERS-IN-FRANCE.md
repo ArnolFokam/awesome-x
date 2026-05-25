@@ -12,7 +12,7 @@ Si vous souhaitez échanger sur l'IA, la recherche, les opportunités en STEM ou
 
 Si vous avez des questions, trouvez quelque chose de confus, ou souhaitez de l'aide pour savoir par où commencer, n'hésitez pas à me contacter.
 
-> ⚠️ Les données ont été collectées automatiquement via des agents IA. Vérifiez toujours les informations directement sur le site officiel avant de postuler.
+> ⚠️ Vérifiez toujours les informations directement sur le site officiel avant de postuler.
 
 ## Recherche rapide
 

@@ -5,6 +5,7 @@ A curated collection of useful resources and communities for people building in 
 ## Lists
 
 - [Online Communities for Africans in AI](ONLINE-COMMUNITIES-FOR-AFRICANS-IN-AI.md) - Online ML, AI, NLP, and data science communities to help you start your networking journey as an African in AI.
+- [Masters en IA en France (2026)](AI-MASTERS-IN-FRANCE.md) - 235 masters en Intelligence Artificielle, Machine Learning et Data Science dans les universités et grandes écoles françaises, organisés par ville.
 
 ## About
 
